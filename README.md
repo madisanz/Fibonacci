@@ -1,4 +1,4 @@
-# Fibonacci
+# Fibonacci Sequence
 
 The Fibonacci Sequence is the series of numbers:
 
